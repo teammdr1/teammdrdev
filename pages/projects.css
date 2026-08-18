@@ -403,12 +403,12 @@ nav a:hover::after{
 .background-icons .icon{
     position:absolute;
 
-    width:40px;
-    height:40px;
+    width:90px;
+    height:90px;
 
     object-fit:contain;
 
-    opacity:.045;
+    opacity:.055;
 
     filter:grayscale(1);
 
@@ -416,50 +416,82 @@ nav a:hover::after{
 }
 
 .icon-1{
-    top:10%;
-    left:7%;
+    width:100px;
+    height:100px;
+
+    top:8%;
+    left:6%;
+
     transform:rotate(-17deg);
 }
 
 .icon-2{
+    width:75px;
+    height:75px;
+
     top:18%;
-    right:9%;
+    right:8%;
+
     transform:rotate(21deg);
 }
 
 .icon-3{
-    top:37%;
-    left:12%;
+    width:110px;
+    height:110px;
+
+    top:38%;
+    left:10%;
+
     transform:rotate(8deg);
 }
 
 .icon-4{
-    top:48%;
-    right:7%;
+    width:85px;
+    height:85px;
+
+    top:49%;
+    right:6%;
+
     transform:rotate(-25deg);
 }
 
 .icon-5{
-    top:67%;
-    left:6%;
+    width:95px;
+    height:95px;
+
+    top:68%;
+    left:5%;
+
     transform:rotate(14deg);
 }
 
 .icon-6{
+    width:75px;
+    height:75px;
+
     top:76%;
-    right:13%;
+    right:12%;
+
     transform:rotate(-11deg);
 }
 
 .icon-7{
-    top:88%;
-    left:28%;
+    width:105px;
+    height:105px;
+
+    top:87%;
+    left:27%;
+
     transform:rotate(24deg);
 }
 
 .icon-8{
-    top:31%;
-    right:28%;
+    width:80px;
+    height:80px;
+
+    top:30%;
+    right:27%;
+
     transform:rotate(-7deg);
 }
 
